@@ -11,6 +11,7 @@ def fizzbuzz(n):
             print(i, end=' ')
     print()  # Add a newline for readability
 
+
 # Entry point of the script
 if __name__ == "__main__":
     import sys
